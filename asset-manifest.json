@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/planTour/static/css/main.e6849d84.css",
+    "main.js": "/planTour/static/js/main.b4376097.js",
+    "index.html": "/planTour/index.html",
+    "main.e6849d84.css.map": "/planTour/static/css/main.e6849d84.css.map",
+    "main.b4376097.js.map": "/planTour/static/js/main.b4376097.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6849d84.css",
+    "static/js/main.b4376097.js"
+  ]
+}
